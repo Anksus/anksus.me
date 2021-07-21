@@ -5,8 +5,8 @@ const siteMetadata = {
   description:
     "Curious mind, developer and an otaku with a knack for building things. I'm an 21-year-old from India and currently in a senior year at IIT(BHU).",
   language: 'en-us',
-  siteUrl: '',
-  siteRepo: '',
+  siteUrl: 'https://anksus.me',
+  siteRepo: 'https://github.com/Anksus/anksus.me',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/ankit.jpg',
   socialBanner: '/static/images/twitter-card.png',
