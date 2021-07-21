@@ -1,16 +1,26 @@
 const projectsData = [
   {
-    title: '',
-    description: ``,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Astro-app',
+    description: `Official website of Astronomy club IIT(BHU). Made from scratch using GatsbyJs and TailwindCSS`,
+    imgSrc: '/static/images/astroclub.png',
+    href: 'https://astroiitbhu.in/',
+    repoLink: 'https://github.com/Astronomy-Club-IITBHU/astro-app',
   },
   {
-    title: '',
-    description: ``,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Cowin-CLI',
+    description: `Vaccine Tracker - It hits cowin API and beeps when vaccine is available. NodeJs CLI tool.`,
+    imgSrc: '/static/images/cowin-cli.jpg',
+    href: '',
+    repoLink: 'https://github.com/Anksus/vaccine-tracker',
+  },
+  {
+    title: 'AR portal',
+    description: `Similar to Anywhere Door from Doraemon! I designed and developed this app in my summer vacation of 2019. Motivation behind this app was to acknowledge our alumni's, running successful startups. Made with ARCore and Unity`,
+    imgSrc: '/static/images/arportal.png',
+    href:
+      'https://www.linkedin.com/posts/ankitsusne_app-startups-alumni-activity-6621701160090894336-lie5',
+    repoLink: 'https://github.com/Anksus/vaccine-tracker',
   },
 ]
-
+// links to blog is relatively "/blogs/im-starting-a-blog/"
 export default projectsData
