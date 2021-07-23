@@ -20,7 +20,7 @@ const siteMetadata = {
   comment: {
     provider: 'giscus', // supported providers: giscus, utterances, disqus
     giscusConfig: {
-      repo: 'Anksus/anksus.tech', // username/repoName
+      repo: 'Anksus/anksus.me', // username/repoName
       // Visit the link below, enter your repo in the configuration section and copy the script data parameters
       // Before that you should create a new Github discussions category with the Announcements type so that new discussions can only be created by maintainers and giscus
       // https://giscus.app/
