@@ -2,7 +2,7 @@
 title: Integrate automatic deployment in 10 minutes
 date: '2021-07-28'
 tags: ['Automatic deployment', 'web server']
-draft: false
+draft: True
 summary: Add automatic deployment to your projects with a simple web server
 images: []
 layout: PostLayout
