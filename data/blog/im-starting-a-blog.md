@@ -1,5 +1,5 @@
 ---
-title: So, I'm starting a blog!
+title: I'm starting a blog!
 date: '2021-07-20'
 tags: ['personal']
 draft: false
