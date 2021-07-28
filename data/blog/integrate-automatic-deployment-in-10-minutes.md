@@ -46,4 +46,4 @@ sudo mv  webhook-linux-amd64/webhook /usr/local/bin
 ```
 
 To verify, if everything went down correctly type `webhook --version`, if you see version in the output then the setup is correct.
-Then type `webhhok -verbose` to spin up the webhook server.
+To spin up the webhook server type `webhhok -verbose`.
