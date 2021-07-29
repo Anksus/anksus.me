@@ -19,7 +19,7 @@ const projectsData = [
     imgSrc: '/static/images/arportal.png',
     href:
       'https://www.linkedin.com/posts/ankitsusne_app-startups-alumni-activity-6621701160090894336-lie5',
-    repoLink: 'https://github.com/Anksus/vaccine-tracker',
+    repoLink: 'https://github.com/Anksus/ARportal',
   },
   {
     title: 'Lucky Draw',
