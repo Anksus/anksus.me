@@ -15,7 +15,7 @@ const projectsData = [
   },
   {
     title: 'AR portal',
-    description: `Similar to Anywhere Door from Doraemon. I designed and developed this app during summer vacation of 2019. Motivation behind this app was to acknowledge our alumni's, running successful startups. Made with ARCore and Unity`,
+    description: `Similar to Anywhere Door from Doraemon. I designed and developed this app during summer vacation of 2019. Motivation behind this app is to acknowledge our alumni's, running successful startups. Made with ARCore and Unity`,
     imgSrc: '/static/images/arportal.png',
     href:
       'https://www.linkedin.com/posts/ankitsusne_app-startups-alumni-activity-6621701160090894336-lie5',
