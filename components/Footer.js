@@ -21,12 +21,6 @@ export default function Footer() {
           <div>{` • `}</div>
           <Link href="/">Home</Link>
         </div>
-//         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-//           Built with NextJS and ReactJS 
-//         </div>
-//         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-//           The code is open source and available at <Link href="https://github.com/Anksus/anksus.me">GitHub/anksus</Link>
-//         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">Theme by timlrx</Link>
         </div>
