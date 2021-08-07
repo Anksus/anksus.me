@@ -22,7 +22,7 @@ export default function Footer() {
           <Link href="/">Home</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          Built with NextJS and ReactJS.  
+          Built with NextJS and ReactJS 
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           The code is open source and available at <Link href="https://github.com/Anksus/anksus.me">anksus/anksus.me</Link>
