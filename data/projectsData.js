@@ -28,6 +28,13 @@ const projectsData = [
     href: 'https://luckydrawapp.netlify.app/',
     repoLink: 'https://github.com/Anksus/Lucky-draw',
   },
+  {
+    title: 'Shortly',
+    description: 'Web tool to convert long URLs to short one.',
+    imgSrc: '/static/images/shortly.png',
+    href: 'https://sh.anksus.me/',
+    repoLink: 'https://github.com/Anksus/shortly',
+  },
 ]
 // links to blog is relatively "/blogs/im-starting-a-blog/"
 export default projectsData
