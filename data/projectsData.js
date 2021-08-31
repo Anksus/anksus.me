@@ -1,10 +1,24 @@
 const projectsData = [
   {
+    title: 'Peditor',
+    description: `Peditor is an online text editor that lets people collaborate in real-time.`,
+    imgSrc: '/static/images/peditor.png',
+    href: 'https://peditor.anksus.me/',
+    repoLink: 'https://github.com/Anksus/peditor',
+  },
+  {
     title: 'Astro-app',
     description: `Official website of Astronomy club IIT(BHU). Made from scratch using GatsbyJs and TailwindCSS`,
     imgSrc: '/static/images/astroclub.png',
     href: 'https://astroiitbhu.in/',
     repoLink: 'https://github.com/Astronomy-Club-IITBHU/astro-app',
+  },
+  {
+    title: 'Shortly',
+    description: 'Web tool to convert long URLs to short one.',
+    imgSrc: '/static/images/shortly.png',
+    href: 'https://sh.anksus.me/',
+    repoLink: 'https://github.com/Anksus/shortly',
   },
   {
     title: 'Cowin-CLI',
@@ -29,11 +43,11 @@ const projectsData = [
     repoLink: 'https://github.com/Anksus/Lucky-draw',
   },
   {
-    title: 'Shortly',
-    description: 'Web tool to convert long URLs to short one.',
-    imgSrc: '/static/images/shortly.png',
-    href: 'https://sh.anksus.me/',
-    repoLink: 'https://github.com/Anksus/shortly',
+    title: 'Weather App',
+    description: `It's a weather app, which tells you weather condition of a searched loaction. Built uisng Nodejs and Express`,
+    imgSrc: '/static/images/weather.png',
+    href: 'https://weather-frcs.herokuapp.com/',
+    repoLink: 'https://github.com/Anksus/Weather-App',
   },
 ]
 // links to blog is relatively "/blogs/im-starting-a-blog/"
