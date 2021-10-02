@@ -15,4 +15,5 @@ I'm a tech enthusiast and have been fascinated with software development since I
 
 Apart from cool tech stuff, I love watching anime. I have a great desire to make movies as Makoto Shinkai produces. I sketch anime characters in my free time. I get way too excited about supercars. I've attended a lot of supercar rallies. This year I went to Valley Run 2021.
 
-I strive to bring energy, technical knowledge, and a strong desire to learn with me wherever I go.
+Feel free to connect with me!
+
