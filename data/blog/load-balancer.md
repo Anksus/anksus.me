@@ -8,7 +8,7 @@ images: []
 layout: PostLayout
 ---
 
-## let's try to understand the Load balancer(LB) with five questions.
+## Let's try to understand the Load balancer(LB) with five questions.
 
 1. What is Load Balancer?
 2. Why do we need LB?
