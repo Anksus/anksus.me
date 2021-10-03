@@ -21,6 +21,18 @@ export default function Footer() {
           <div>{` • `}</div>
           <Link href="/">Home</Link>
         </div>
+        <h1 className="text-sm text-gray-500 dark:text-gray-400">
+          Build with
+          <span className="text-sm text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
+            {' '}
+            NextJS{' '}
+          </span>
+          and
+          <span className="text-sm text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
+            {' '}
+            React 17.0.2
+          </span>
+        </h1>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">Theme by timlrx</Link>
         </div>
