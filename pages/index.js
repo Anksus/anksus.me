@@ -19,8 +19,11 @@ export default function Home({ posts }) {
       <PageSeo title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="pt-6 pb-5 space-y-2 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-            Hey, I’m Ankit Susne
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14 ">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+              {' '}
+              Hey, I’m Ankit Susne{' '}
+            </span>
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             <span className="font-bold text-gray-700 dark:text-gray-100">Curious mind</span>

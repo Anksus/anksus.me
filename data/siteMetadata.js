@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Ankit Susne',
   headerTitle: '',
   description:
-    "Curious mind, developer and an otaku with a knack for building things. I'm an 21-year-old from India and currently in a senior year at IIT(BHU).",
+    "Curious mind, developer and an otaku with a knack for building things. I'm an 22-year-old from India and currently in a senior year at IIT(BHU).",
   language: 'en-us',
   siteUrl: 'https://anksus.me',
   siteRepo: 'https://github.com/Anksus/anksus.me',

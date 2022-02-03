@@ -14,12 +14,15 @@ export default function Footer() {
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
         </div>
-        <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
+        <div className="flex mb-1 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{siteMetadata.author}</div>
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>
           <Link href="/">Home</Link>
+        </div>
+        <div className="mb-1 text-sm text-gray-500 dark:text-gray-400">
+          Built with NextJS and ReactJS
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">Theme by timlrx</Link>
