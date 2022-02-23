@@ -1,6 +1,6 @@
 ---
 name: Ankit Susne
-avatar: /static/images/ankit.jpg
+avatar: /static/images/IMG_2426.JPG
 occupation: Fullstack developer
 company: IIT(BHU) Varanasi
 email: ronaksusne@gmail.com
