@@ -30,10 +30,14 @@ export default function Home({ posts }) {
             <span className="font-bold text-gray-700 dark:text-gray-100">, developer </span>
             and an
             <span className="font-bold text-gray-700 dark:text-gray-100"> otaku </span>
-            with a knack for building things. I'm an 22-year-old from{' '}
+            with a knack for building things. I'm an 24-year-old from{' '}
             <span className="font-bold text-gray-700 dark:text-gray-100">India</span> and currently
-            in a senior year at{' '}
-            <span className="font-bold text-gray-700 dark:text-gray-100">IIT(BHU)</span>.
+            working at{' '}
+            <span className="font-bold text-gray-700 dark:text-gray-100">
+              {' '}
+              <a href="https://www.gojek.io/">Gojek</a>
+            </span>
+            .
           </p>
 
           <div>
